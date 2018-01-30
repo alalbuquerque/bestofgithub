@@ -1,4 +1,4 @@
-# bestofgithub
+# best of github
 
 https://developer.github.com/v3/
 
